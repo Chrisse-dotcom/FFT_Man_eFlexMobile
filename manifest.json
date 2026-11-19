@@ -1,0 +1,25 @@
+{
+  "name": "FFT-CHEF – eFlexMobile Jump & Run",
+  "short_name": "FFT-CHEF",
+  "description": "eFlexMobile Hochvolt-Prüfstand Arcade Jump & Run",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#050811",
+  "theme_color": "#050811",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
